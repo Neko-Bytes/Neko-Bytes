@@ -21,19 +21,19 @@ Here are some of my special picks:
 
 ### 🌀 **FDF** - *Because drawing lines in MS Paint wasn’t challenging enough!*
 A 3D wireframe visualization project that converts terrain data into a 2D isometric projection.
-- 🔗 [Check it out!](https://github.com/MKNSTEJA/FDF)
+- 🔗 [Check it out!](https://github.com/Neko-Bytes/FDF)
 
 ### 📦 **Push_Swap** - *Sorting, but make it painful!*
 A sorting algorithm challenge where you must arrange numbers with limited operations.
-- 🔗 [Check it out!](https://github.com/MKNSTEJA/push_swap)
+- 🔗 [Check it out!](https://github.com/Neko-Bytes/push_swap)
 
 ### 🍽️ Philosophers - Simulating a simple society! 🍴
 A multi-threaded simulation of dining philosophers, focusing on concurrency, resource management, and avoiding starvation.
-- 🔗 [Check it out!](https://github.com/MKNSTEJA/philosophers)
+- 🔗 [Check it out!](https://github.com/Neko-Bytes/philosophers)
 
 ### 📡 **Minitalk** - *When processes start gossiping!* 🗣️
 A UNIX signals-based project that lets processes send messages to each other—like secret agents but in binary.
-- 🔗 [Check it out!](https://github.com/MKNSTEJA/minitalk)
+- 🔗 [Check it out!](https://github.com/Neko-Bytes/minitalk)
 
 ---
 
@@ -41,13 +41,13 @@ A UNIX signals-based project that lets processes send messages to each other—l
 
 🔹 **Languages**: C, C++, Lua, Python, Shell.
 🔹 **Skills**: Deep learning and AI.
-🔹 **Tools**: Neovim, VScode, Canva.
+🔹 **Tools**: Neovim, VScode, Canva, Roboflow, Cognex
 
 ---
 
 ## 📫 Connect with Me
 
-💻 **GitHub**: [MKNSTEJA](https://github.com/MKNSTEJA)  
+💻 **GitHub**: [Neko-Bytes](https://github.com/Neko-Bytes)  
 📧 **Email**: chessmaniacs123@gmail.com  
 📢 **Let's talk tech, algorithms, AI, and why my printf segfaults at 3 AM!*
 
