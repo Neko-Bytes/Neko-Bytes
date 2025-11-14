@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey! I'm **Teja**, currently pursuing a bachelor's in Mechatronics at **RPTU Kaiserslautern** and coding course at **42 Heilbronn**. Combining mechatronics and programming feels like possessing a superpower! 
+Hey! I'm **Teja**, currently pursuing a bachelor's in Mechatronics at **RPTU Kaiserslautern** and coding course at **42 Heilbronn**. (Combining mechatronics and programming feels like possessing a superpower!) 
 
 I strive for the simplest and most straightforward approach in my code (most of the times atleast) to improve readability and understanding. Despite technically doing two degrees at once, I consider my progress in the 42 core curriculum impressive because of my ability to learn anything very quickly. 
 
