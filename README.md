@@ -1,20 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0db7ed&height=220&section=header&text=Kumara%20Teja%20M.&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20%7C%20Computer%20Vision%20%7C%20Low-Level%20Ops&descAlignY=55&descSize=20" width="100%"/>
-</div>
+
+# Kumara Teja Mummadisetty
+### Mechatronics @ RPTU &nbsp;•&nbsp; CS @ 42 Heilbronn
+
+*Bridging hardware constraints with software efficiency.*
+
+<p>
+<a href="mailto:chessmaniacs123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 <br/>
 
-### 👨‍💻 About Me
-I am a Mechatronics and CS student focusing on **Computer Vision**, **System Architecture**, and **Low-Level Optimization**. I build software that respects hardware constraints.
-
-<div align="center"> 
-  <a href="mailto:chessmaniacs123@gmail.com">Contact via Email</a> • 
-  <a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/">LinkedIn</a>
-</div>
-
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white">
 <br/>
+<img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white">
 
-### 🛠 Skills
+</div>
+<br/>
 
 ## 🚀 Projects
 
