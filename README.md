@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white">
