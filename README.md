@@ -2,7 +2,7 @@
 
 # Kumara Teja Mummadisetty
 
-### Mechatronics Engineer @ RPTU | Systems architect @ 42 Heilbronn
+### Mechatronics @ RPTU | Computer science @ 42 Heilbronn
 
 *Bridging hardware constraints with software efficiency.*
 
