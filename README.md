@@ -1,46 +1,27 @@
-<div align="center">
-
-<table style="border-width:0;">
+<table border="0">
   <tr>
-    <td align="left" valign="top" width="55%">
+    <td width="50%" valign="top" style="border: none;">
       <h1>Kumara Teja Mummadisetty</h1>
-      <h3>Mechatronics @ RPTU | Computer Science @ 42 Heilbronn</h3>
-      <p><em>Bridging hardware constraints with software efficiency.</em></p>
-      <p><strong>Focus:</strong> Computer Vision • System Architecture • Low-Level Optimization</p>
       <p>
-        <a href="mailto:chessmaniacs123@gmail.com">
-          <img src="https://img.shields.io/badge/Email-chessmaniacs123%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+        <strong>Mechatronics @ RPTU</strong><br/>
+        <strong>CS @ 42 Heilbronn</strong>
       </p>
+      <p><em>"Bridging hardware constraints with software efficiency."</em></p>
+      <p>
+        <a href="mailto:chessmaniacs123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      </p>
+      <br/>
+      <b>Core Languages</b><br/>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
     </td>
-    <td align="left" valign="top" width="45%">
-      <h3>🛠 Skills</h3>
-      <strong>Languages</strong><br>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-      <br><br>
-      <strong>Computer Vision & AI</strong><br>
-      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-      <br><br>
-      <strong>DevOps & Tools</strong><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Neko-Bytes&show_icons=true&theme=transparent&hide_border=true&hide_title=false&count_private=true" alt="stats graph" />
     </td>
   </tr>
 </table>
-
-</div>
 
 ## 🚀 Projects
 
