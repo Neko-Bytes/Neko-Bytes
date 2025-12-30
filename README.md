@@ -12,7 +12,7 @@
 <a href="mailto:chessmaniacs123@gmail.com">
   <img src="https://img.shields.io/badge/Email-chessmaniacs123%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-701331256/">
+<a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
