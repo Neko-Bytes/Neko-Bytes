@@ -56,6 +56,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neko-Bytes&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" height="130" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neko-Bytes&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="130" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko-Bytes&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="130" alt="languages" />
 </div>
