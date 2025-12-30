@@ -60,7 +60,7 @@
 ### 🖥️ Computer Graphics & Physics
 | Project | Synopsis | Core Stack |
 | :--- | :--- | :--- |
-| **[MiniRT](https://github.com/Neko-Bytes/miniRT)** | **Raytracing Engine.** A multi-threaded renderer that simulates real-world light physics. Calculates shadows, ambient lighting, diffuse reflection, and geometric intersections. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Math](https://img.shields.io/badge/Vector_Math-333333?style=flat-square) |
+| **[MiniRT](https://github.com/Neko-Bytes/minirt)** | **Raytracing Engine.** A multi-threaded renderer that simulates real-world light physics. Calculates shadows, ambient lighting, diffuse reflection, and geometric intersections. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Math](https://img.shields.io/badge/Vector_Math-333333?style=flat-square) |
 | **[FDF](https://github.com/Neko-Bytes/FDF)** | **3D Wireframe Visualizer.** Converts raw coordinate data maps into a topographical landscape using isometric projection matrices and Bresenham's line algorithm. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Graphics](https://img.shields.io/badge/Bresenham-333333?style=flat-square) |
 
 <br/>
