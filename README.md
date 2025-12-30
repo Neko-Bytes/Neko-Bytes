@@ -3,8 +3,6 @@
 # Kumara Teja Mummadisetty
 ### Mechatronics @ RPTU &nbsp;•&nbsp; CS @ 42 Heilbronn
 
-*Bridging hardware constraints with software efficiency.*
-
 <p>
 <a href="mailto:chessmaniacs123@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=flat-square&logo=gmail&logoColor=white"/>
