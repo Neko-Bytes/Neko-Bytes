@@ -1,27 +1,20 @@
-<table border="0">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h1>Kumara Teja Mummadisetty</h1>
-      <p>
-        <strong>Mechatronics @ RPTU</strong><br/>
-        <strong>CS @ 42 Heilbronn</strong>
-      </p>
-      <p><em>"Bridging hardware constraints with software efficiency."</em></p>
-      <p>
-        <a href="mailto:chessmaniacs123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-        <a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-      </p>
-      <br/>
-      <b>Core Languages</b><br/>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Neko-Bytes&show_icons=true&theme=transparent&hide_border=true&hide_title=false&count_private=true" alt="stats graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0db7ed&height=220&section=header&text=Kumara%20Teja%20M.&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20%7C%20Computer%20Vision%20%7C%20Low-Level%20Ops&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+I am a Mechatronics and CS student focusing on **Computer Vision**, **System Architecture**, and **Low-Level Optimization**. I build software that respects hardware constraints.
+
+<div align="center"> 
+  <a href="mailto:chessmaniacs123@gmail.com">Contact via Email</a> • 
+  <a href="https://www.linkedin.com/in/kumara-teja-mummadisetty-520906221/">LinkedIn</a>
+</div>
+
+<br/>
+
+### 🛠 Skills
 
 ## 🚀 Projects
 
